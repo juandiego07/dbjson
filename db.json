@@ -4,7 +4,7 @@
             "id": 1,
             "cc": "123",
             "name": "Diego Vargas",
-            "descricion": "Credito Vehiculo",
+            "descripcion": "Credito Vehiculo",
             "cuota": 2,
             "total": 10
         },
@@ -12,7 +12,7 @@
             "id": 2,
             "cc": "465",
             "name": "Jeison Caro",
-            "descricion": "Credito Vivenda",
+            "descripcion": "Credito Vivenda",
             "cuota": 1,
             "total": 10
         },
@@ -20,7 +20,7 @@
             "id": 3,
             "cc": "789",
             "name": "Andres Osorio",
-            "descricion": "Credito Vivenda",
+            "descripcion": "Credito Vivenda",
             "cuota": 2,
             "total": 10
         },
@@ -28,7 +28,7 @@
             "id": 4,
             "cc": "234",
             "name": "Andres Tangarife",
-            "descricion": "Credito Linea Blanca",
+            "descripcion": "Credito Linea Blanca",
             "cuota": 3,
             "total": 10
         },
@@ -36,7 +36,7 @@
             "id": 5,
             "cc": "234",
             "name": "Maria Correa",
-            "descricion": "Credito Linea Blanca",
+            "descripcion": "Credito Linea Blanca",
             "cuota": 1,
             "total": 10
         }
