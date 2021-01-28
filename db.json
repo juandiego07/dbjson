@@ -38,45 +38,5 @@
         "descricion": "Credito Vehiculo",
         "cuota": 1,
         "total": 10
-    },
-    {
-        "id": 6,
-        "cc": "1020480143",
-        "name": "Maria Correa",
-        "descricion": "Credito Linea Blanca",
-        "cuota": 3,
-        "total": 10
-    },
-    {
-        "id": 7,
-        "cc": "1096246841",
-        "name": "Maria Bello",
-        "descricion": "Credito Linea Blanca",
-        "cuota": 1,
-        "total": 10
-    },
-    {
-        "id": 8,
-        "cc": "1045111091",
-        "name": "Juan Herrera",
-        "descricion": "Credito Linea Blanca",
-        "cuota": 3,
-        "total": 10
-    },
-    {
-        "id": 9,
-        "cc": "123456789",
-        "name": "Carlos Moreno",
-        "descricion": "Credito Vehiculo",
-        "cuota": 3,
-        "total": 10
-    },
-    {
-        "id": 10,
-        "cc": "102345678",
-        "name": "Juan Valencia",
-        "descricion": "Credito Vehiculo",
-        "cuota": 1,
-        "total": 10
     }
 ]
