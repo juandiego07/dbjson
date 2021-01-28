@@ -10,8 +10,8 @@
         },
         {
             "id": 2,
-            "cc": "456",
-            "name": "Jeison Caro",
+            "cc": "123",
+            "name": "Diego Vargas",
             "descripcion": "Credito Vivenda",
             "cuota": 1,
             "total": 10
