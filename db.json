@@ -10,7 +10,7 @@
         },
         {
             "id": 2,
-            "cc": "123",
+            "cc": "456",
             "name": "Diego Vargas",
             "descripcion": "Credito Vivenda",
             "cuota": 1,
@@ -18,7 +18,7 @@
         },
         {
             "id": 3,
-            "cc": "1020480143",
+            "cc": "789",
             "name": "Andres Osorio",
             "descripcion": "Credito Vivenda",
             "cuota": 2,
@@ -34,7 +34,7 @@
         },
                 {
             "id": 5,
-            "cc": "345",
+            "cc": "1020480143",
             "name": "Maria Correa",
             "descripcion": "Credito Linea Blanca",
             "cuota": 1,
